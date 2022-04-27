@@ -1,0 +1,16 @@
+1/ Khoi tao GIT
+    - Lenh: git init
+
+2/ Kiem tra phien ban GIT 
+    - Lenh: git --version
+
+3. Dua code cua minh len server gitdub/gitlap
+    - Lenh: git add .
+            git commit -m "your comment"
+            git push
+
+4. Lenh kiem tra ra trong tang thai cua git 
+    - Lenh git status
+
+****
+
