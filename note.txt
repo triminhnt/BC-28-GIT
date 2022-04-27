@@ -20,6 +20,8 @@
 6. Kiem tra xem add remote thanh cong chua
     - Lenh: git remote 
 
-
+7. Nguoi moi vao cong ty lay code ve nhu the nao:
+    - Lenh: git clone {url_github}
+    vi du: git clone https://github.com/triminhnt/BC-28-GIT.git
 
 
