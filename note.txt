@@ -43,5 +43,7 @@
     - Lenh: git merge {branch_name}
     vi du: git merge demo-branch
 
-
+12. Keo code moi nhat ve local:
+    - Lenh: git pull {url_github} {branch_name} | git pull 
+    vi du: git pull origin master 
 
