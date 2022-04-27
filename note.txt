@@ -5,12 +5,20 @@
     - Lenh: git --version
 
 3. Dua code cua minh len server gitdub/gitlap
-    - Lenh: git add .
+    - Lenh: git add . | git add index.html
             git commit -m "your comment"
-            git push
+            git push origin master
 
 4. Lenh kiem tra ra trong tang thai cua git 
     - Lenh git status
 
-****
+5. Lenh giup GIT biet duoc se dua code len cho nao
+    - Lenh: git remote add {name} {url_github}
+    Vi du: git remote add origin https://github.com/triminhnt/BC-28-GIT.git
+    
+6. Kiem tra xem add remote thanh cong chua
+    - Lenh: git remote 
+
+
+
 
