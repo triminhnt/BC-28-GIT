@@ -34,5 +34,9 @@
     - Lenh: git branch {new_branch}
     Vi du: git branch demo-branch
 
+10. Chuyen nhanh:
+    - Lenh: git checkout {branch_name}
+    vi du: git checkout demo-branch 
+
 
 
