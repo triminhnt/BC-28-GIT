@@ -22,6 +22,17 @@
 
 7. Nguoi moi vao cong ty lay code ve nhu the nao:
     - Lenh: git clone {url_github}
+    - Lenh: git clone --branch {branch_name} {url_github}
+
     vi du: git clone https://github.com/triminhnt/BC-28-GIT.git
+    vi du: git clone --branch master https://github.com/triminhnt/BC-28-GIT.git
+
+8. Kiem tra xem co bao nhieu nhanh tren sourcecode:
+    - Lenh: git branch
+
+9. Tao them nhanh moi:
+    - Lenh: git branch {new_branch}
+    Vi du: git branch demo-branch
+
 
 
