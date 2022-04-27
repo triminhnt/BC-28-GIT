@@ -38,5 +38,10 @@
     - Lenh: git checkout {branch_name}
     vi du: git checkout demo-branch 
 
+11. Ket hop code cua 2 nhanh:
+    - Luu y: neu muon ket hop code vao master thi phai dung o nhanh master
+    - Lenh: git merge {branch_name}
+    vi du: git merge demo-branch
+
 
 
